@@ -10,4 +10,4 @@ This repo is just an attempt to read in and factorize a file of numbers.
 
 ## Author :octocat:
 
-[Meresa Gidey ]() | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/meresa16)
+[Meresa Gidey ]() | [Twitter]() | [GitHub](https://github.com/meresa16)
